@@ -7,3 +7,4 @@ const couple3Element : [string, string,number] = ['Shakib', 'Wife', 4]
 const myName : string = 'Shakib'
 const myAge : number = 15
 const isDead : boolean = false
+console.log(`Name : ${myName}, Age is : ${myAge}`);
