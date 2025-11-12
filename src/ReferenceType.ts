@@ -32,4 +32,3 @@ const user3: {
     lastName: 'Hossain'
 }
 // giving Error because Of access Modifier (readonly)
-user3.organization2 = 'S'
